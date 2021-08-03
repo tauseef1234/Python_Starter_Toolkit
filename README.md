@@ -6,5 +6,9 @@ When I started learning python, I used to get lost in what concepts to learn in 
 This repository will have a series of notebooks to get learn basic python concepts necessary to get started with data science and machine learning projects. In future, I will be adding notebooks for learning to key python libararies - pandas and numpy.
 
 Python:
+1. Part 1
+2. Part 2
+3. Part 3
+4. Part 4
 
 
