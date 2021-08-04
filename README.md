@@ -7,8 +7,20 @@ This repository will have a series of notebooks to get learn basic python concep
 
 Python:
 1. Part 1
+    - Math Operators
+    - Variables
+    - Flow Control
+    - Boolean Operators
+    - List
+    - Dictionary
 2. Part 2
+    - Dictionary continued
+    - Comprehension
 3. Part 3
-4. Part 4
+    - Strings
+    - Python escape sequences
+    - String Slicing
+    - If-Else-Elif
+    - Loops - For & While
 
 
