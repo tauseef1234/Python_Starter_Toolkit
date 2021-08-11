@@ -5,6 +5,8 @@ When I started learning python, I used to get lost in what concepts to learn in 
 
 This repository will have a series of notebooks to get learn basic python concepts necessary to get started with data science and machine learning projects. In future, I will be adding notebooks for learning key python libraries - pandas and numpy.
 
+Some of the examples in these notebooks have been referenced from [learnbyexample](https://www.learnbyexample.org/python/) and [real python](https://realpython.com/) which are very good resources to learn python.
+
 Python:
 1. Part 1
     - Math Operators
@@ -22,5 +24,8 @@ Python:
     - String Slicing
     - If-Else-Elif
     - Loops - For & While
+
+
+References:
 
 
