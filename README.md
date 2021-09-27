@@ -35,6 +35,13 @@ Python:
     - lambda functions
     - lambda functions with map, filter and reduce
 
+Pandas
+
+1. Part 1
+   - Series, Dataframes
+   - Basic methods(head, tail, unique, etc.)
+   - Filtering
+   - Pivoting
 
 References:
 1. https://www.learnbyexample.org/python/
