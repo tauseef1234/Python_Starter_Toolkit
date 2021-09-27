@@ -25,6 +25,15 @@ Python:
     - String Slicing
     - If-Else-Elif
     - Loops - For & While
+    
+4. Part 4
+    - OOPS (Classes, objects and methods)
+    - Inheritance
+    - super()
+5. Functions
+    - functions using def
+    - lambda functions
+    - lambda functions with map, filter and reduce
 
 
 References:
