@@ -1,4 +1,5 @@
 # Python_Starter_Toolkit
+
 Python toolkit to get started with data science and machine learning notebooks
 
 When I started learning python, I used to get lost in what concepts to learn in python language, especially coming from a non programming background. This repository is aimed to help learners from non computer science backgorund to know what key concepts of python progamming language is important for **data science** and **machine learning** projects.
@@ -46,5 +47,7 @@ Pandas
 References:
 1. https://www.learnbyexample.org/python/
 2. https://realpython.com/
+3. https://medium.com/analytics-vidhya/a-tip-a-day-python-tip-5-pandas-concat-append-dev-skrol-18e4950cc8cc
+4. https://jakevdp.github.io/PythonDataScienceHandbook/03.07-merge-and-join.html
 
 
