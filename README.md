@@ -35,6 +35,12 @@ Python:
     - functions using def
     - lambda functions
     - lambda functions with map, filter and reduce
+    
+6. Decorators
+    - Functions as first-class objects
+    - Creating Decorators
+    - Decorator with arguments
+    - Classes as decorators/Decorators as classes
 
 Pandas
 
