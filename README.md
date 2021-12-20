@@ -20,6 +20,7 @@ Python:
 2. Part 2
     - Dictionary continued
     - Comprehension
+
 3. Part 3
     - Strings
     - Python escape sequences
@@ -50,6 +51,11 @@ Pandas
    - Filtering
    - Pivoting
 
+2. Part 2
+   - Concat/Append
+   - Merge
+   - Groupby
+   
 References:
 1. https://www.learnbyexample.org/python/
 2. https://realpython.com/
